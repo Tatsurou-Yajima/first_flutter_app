@@ -1,6 +1,8 @@
+<img src="https://user-images.githubusercontent.com/44424270/233758748-a9d8a02b-be30-4063-982f-3380db0ac271.png">
+
 # first_flutter_app
 
-A new Flutter project.
+This app was created in the Flutter tutorial.
 
 ## Getting Started
 
